@@ -15,6 +15,14 @@ looks at the result. You and your agent write the code.
    - on your own, step by step: [guides/02-splat-viewer-alone.md](guides/02-splat-viewer-alone.md)
 4. **Big scans:** [docs/big-scans.md](docs/big-scans.md)
 
+## Slides
+
+- [Agentic Coding · Your first agent loop](https://xohm.github.io/photolipsia-student/slides/01-agentic-coding-basics.html)
+- [Radiance Fields in the Browser](https://xohm.github.io/photolipsia-student/slides/02-radiance-field-viewer.html)
+
+Arrow keys or space to move, F for full screen, P to save as PDF. They are also in `slides/` in
+your fork: double-click to open them without internet access to GitHub.
+
 ## What's here
 
 ```
@@ -22,6 +30,7 @@ looks at the result. You and your agent write the code.
 02-splat-viewer/    skeleton for example 2
 guides/             what to type into your agent, step by step
 docs/               setup and background
+slides/             the two slide decks
 tools/              check-openrouter.mjs: tests your API key
 ```
 
