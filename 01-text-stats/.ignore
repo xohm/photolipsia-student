@@ -1,0 +1,6 @@
+# Extra excludes for agent search (ripgrep reads this file, git does not).
+# Unlike .gitignore, it also works in folders that are not git repositories.
+package-lock.json
+node_modules/
+public/splats/
+.env*

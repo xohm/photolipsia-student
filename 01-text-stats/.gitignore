@@ -1,0 +1,14 @@
+# Installed packages: reinstall with npm install
+node_modules/
+# Build output
+dist/
+# Output of npm run check
+.check/
+# Secrets
+.env*
+# OS files
+.DS_Store
+Thumbs.db
+# Large binary assets: keep only the empty folder
+public/splats/*
+!public/splats/.gitkeep
